@@ -1,0 +1,52 @@
+.slider-container {
+    overflow: hidden;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.slider-panel-wrap {
+    position: absolute;
+}
+
+.slider-panel {
+    float: left;
+    display: inline;
+    margin: 0;
+}
+
+.slider-container img {
+    display: block;
+}
+
+.go-to-panel {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.go-to-panel li {
+    float: left;
+    display: inline;
+    display: block;
+    padding: 0 10px;
+}
+
+.slider-container button {
+    position: absolute;
+    top: 50%;
+    height: 100px;
+    width: 30px;
+    margin-top: -50px;
+}
+
+.slider-prev {
+    left: 0;
+}
+
+.slider-next {
+    right: 0;
+}
