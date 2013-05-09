@@ -2,8 +2,8 @@
 
 This is my slider. There are many like it, but this one is mine. Not responsive,
 fixed width...but it works. People wouldn't believe that I'd used jQuery if I 
-hadn't made one. Hopefully it will be use as a code sample to people who want to 
-learn how to write a simple plugin.
+hadn't made one. Hopefully it will be of use as a code sample to people who want
+to learn how to write a simple plugin.
 
 Live demo:
 http://chriswojcik.net/demos/yet-another-slider/
